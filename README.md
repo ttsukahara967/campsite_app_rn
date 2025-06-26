@@ -38,6 +38,10 @@ Scan the QR code with Expo Go on your mobile device.
 
 > **Note**: Make sure your backend API is running and accessible from your mobile device (e.g., replace `localhost` with your local IP in `api/campsite.js`).
 
+### 🔗 Backend API Required
+This app requires the following backend API to be running:
+- [campsite_go](https://github.com/ttsukahara967/campsite_go)
+
 ## 🗺️ Tech Stack
 - React Native + Expo
 - Axios for API requests
