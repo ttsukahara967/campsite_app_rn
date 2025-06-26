@@ -20,7 +20,7 @@ This is a demo mobile application built with **React Native + Expo**, which conn
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/campsite_app_rn.git
+git clone https://github.com/ttsukahara967/campsite_app_rn.git
 cd campsite_app_rn
 ```
 
